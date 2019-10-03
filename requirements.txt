@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==1.0
 pycurl==7.19.5
 beautifulsoup4==4.6.0
 certifi==2018.4.16
